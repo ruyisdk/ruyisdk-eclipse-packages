@@ -305,6 +305,7 @@ United States, other countries, or both.
    <repositories>
       <repository location="https://download.eclipse.org/eclipse/updates/4.34" name="The Eclipse Project Updates" enabled="true" />
       <repository location="https://download.eclipse.org/releases/2024-12" name="2024-12" enabled="true" />
+      <repository location="https://ruyisdk.github.io/ruyisdk-eclipse-plugins/" name="RuyiSDK Updates (GitHub)" enabled="true" />
    </repositories>
 
    <preferencesInfo>
